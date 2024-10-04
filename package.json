@@ -1,0 +1,18 @@
+{
+  "name": "sushi-website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.7",
+    "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "aos": "^2.3.4"
+  }
+}
